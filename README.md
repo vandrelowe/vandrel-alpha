@@ -1,21 +1,49 @@
 # Vandrel Alpha
 
-Public Windows alpha builds of Vandrel for collaborators and evaluators.
+![Vandrel — A living world in progress](assets/vandrel-alpha-cover.png)
 
-## Download and run
+Vandrel is a living-world simulation you can inhabit. Characters pursue their
+own needs and activities while the terrain, ecology, resources, equipment, and
+content-mod systems continue to evolve around them.
 
-1. Open the latest release.
-2. Download the Windows ZIP and its optional SHA-256 checksum.
-3. Extract the entire ZIP to a normal folder.
-4. Run `Vandrel.exe` from the extracted folder. Do not run it from inside the ZIP.
-5. Press **F1** in game for the complete controls and help screen.
+The public Alpha is an early, honest build for prospective collaborators and
+curious players. It includes the CavemanMod reference world and the in-game
+inspection tools used to evaluate characters, animation, equipment, terrain,
+and scene dressing. Expect unfinished behavior and visible defects.
 
-## What this is
+## Try the current Alpha
 
-Vandrel is an evolving game platform with independently loadable content mods. The current alpha includes the CavemanMod reference world and is intended to let prospective collaborators experience the direction of the project while core terrain, simulation, activities, characters, animation, and presentation continue to mature.
+**[Download the latest Windows build](https://github.com/vandrelowe/vandrel-alpha/releases/latest)**
 
-## Feedback
+1. Download the Windows ZIP and its optional SHA-256 checksum.
+2. Extract the entire ZIP to a normal folder.
+3. Run `Vandrel.exe` from the extracted folder. Do not run it inside the ZIP.
+4. Press **F1** in game for controls and the inspection-tool index.
 
-When reporting a problem, include the alpha version, what you were doing, what you expected, what happened, and a screenshot when the issue is visual. This is an alpha: incomplete behaviors and visible defects are expected, but reproducible reports are useful.
+The current direct-download build is unsigned. Windows may display an
+unrecognized-app warning while a smoother signed distribution path is being
+prepared.
 
-The production source repository remains private. This repository contains public binary releases and player-facing information only.
+## What to explore
+
+- Walk through the streamed terrain and inspect local excavation.
+- Watch autonomous characters choose activities through the simulation.
+- Use the character and content showcases to inspect the current roster,
+  animation library, scene dressing, and equipped items.
+- Try the CavemanMod gathering, carrying, combat, and camp workflows that are
+  presently exposed in ordinary play.
+
+## Follow or contribute
+
+- **[Development journal](https://journal.vandrel.com/)** — what changed, what
+  failed, and what still needs work.
+- **[Vandrel project page](https://www.vandrel.com/vandrel-project)** — concise
+  project orientation.
+- **[Report a problem](https://github.com/vandrelowe/vandrel-alpha/issues)** —
+  include the Alpha version, reproduction steps, expected result, actual
+  result, and screenshots for visual problems.
+
+Vandrel is being built as a reusable game platform. CavemanMod is its current
+reference content mod rather than hard-coded platform content. The production
+source repository remains private for now; this repository contains public
+builds and collaborator-facing information.

@@ -13,7 +13,7 @@ and scene dressing. Expect unfinished behavior and visible defects.
 
 ## Try the current Alpha
 
-**[Download Vandrel Alpha 0.1.1 for Windows](https://github.com/vandrelowe/vandrel-alpha/releases/tag/v0.1.1-alpha.1)**
+**[Download Vandrel Alpha 0.1.1 — Alpha 2 for Windows](https://github.com/vandrelowe/vandrel-alpha/releases/tag/v0.1.1-alpha.2)**
 
 1. Download the Windows ZIP and its optional SHA-256 checksum.
 2. Extract the entire ZIP to a normal folder.
